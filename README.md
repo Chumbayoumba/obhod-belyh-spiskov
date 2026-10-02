@@ -73,7 +73,7 @@
 | [RKPchannel/RKP_bypass_configs](https://github.com/RKPchannel/RKP_bypass_configs) | 120+ | Отдельная подписка `whitelist.txt` под белые списки |
 | [jsxta/whitelist-russia](https://github.com/jsxta/whitelist-russia) | 50+ | Сами белые списки: какие сервисы открываются при ограничениях |
 
-**Как подключить:** скопируйте ссылку на `.txt`-подписку из README репозитория → в Happ «+» → «Вставить из буфера» (v2rayNG: «Группы подписок» → «+»; Hiddify: «Новый профиль» → «Добавить из буфера») → обновите подписку → подключитесь к серверу с лучшим пингом. Подробно с картинками: **[vnespiska.win/github-vpn](https://vnespiska.win/github-vpn/)**.
+**Как подключить:** скопируйте ссылку на `.txt`-подписку из README репозитория → в Happ «+» → «Вставить из буфера» (v2rayNG: «Группы подписок» → «+»; Hiddify: «Новый профиль» → «Добавить из буфера») → обновите подписку → подключитесь к серверу с лучшим пингом. Подробно с картинками: **[vnespiska.win/github-vpn](https://vnespiska.win/github-vpn/)**. Пошагово по клиентам: [Happ](https://vnespiska.win/happ-vpn/) · [FlClash](https://vnespiska.win/flclash/) · [Koala Clash](https://vnespiska.win/koala-clash/) · [что такое VLESS-ключ](https://vnespiska.win/vless-klyuchi/).
 
 > ⚠️ При белых списках часто не открывается `raw.githubusercontent.com` — берите зеркальные ссылки (jsDelivr, GitHack), их публикуют в README. Серверы в публичных подписках принадлежат незнакомым людям: не заходите через них в банк.
 
