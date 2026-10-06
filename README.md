@@ -9,7 +9,7 @@
 <!-- GIVEAWAY:END -->
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+FhRJPseOXOszZGM6)
-[![Proxies online](https://img.shields.io/badge/proxies_online-1-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
+[![Proxies online](https://img.shields.io/badge/proxies_online-3-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
 [![Updated](https://img.shields.io/badge/updated-06.10.2026-orange)](#-прокси-для-telegram-проверены-из-россии)
 [![VPN](https://img.shields.io/badge/VPN-белые_списки-ff6a00)](https://t.me/vnespiskabot?start=promo_VNESPISKA_gh_whitelist)
 
@@ -18,7 +18,7 @@
 **Whitelist bypass for Russian mobile internet, 2026:** free Telegram proxies checked from Russia (auto-updated), public VLESS subscriptions on GitHub, and a stable VPN option.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 06.10.2026 09:21 МСК** · рабочих прокси: **1** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 06.10.2026 18:01 МСК** · рабочих прокси: **3** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.1+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -53,7 +53,9 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `edge.turboass.live` | `443` | 🟡 158 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 1 | `edge.turboass.live` | `443` | 🟡 176 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 2 | `cluster.mtproxy.cc` | `443` | 🟡 174 мс | **[⚡ Подключить](https://t.me/proxy?server=cluster.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318636c75737465722e6d7470726f78792e6363)** |
+| 3 | `flow.mtproxy.cc` | `443` | 🟡 94 мс | **[⚡ Подключить](https://t.me/proxy?server=flow.mtproxy.cc&port=443&secret=eeef7017f26c9ecb71ed8d760999294318666c6f772e6d7470726f78792e6363)** |
 <!-- LIVE:END -->
 
 > [!TIP]
