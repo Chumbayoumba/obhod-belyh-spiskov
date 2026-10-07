@@ -18,7 +18,7 @@
 **Whitelist bypass for Russian mobile internet, 2026:** free Telegram proxies checked from Russia (auto-updated), public VLESS subscriptions on GitHub, and a stable VPN option.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 07.10.2026 00:01 МСК** · рабочих прокси: **2** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 07.10.2026 04:21 МСК** · рабочих прокси: **2** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.1+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -53,8 +53,8 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `ultra.mishutkin.click` | `443` | 🟠 204 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
-| 2 | `edge.turboass.live` | `443` | 🟠 485 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 1 | `edge.turboass.live` | `443` | 🟡 132 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 2 | `ultra.mishutkin.click` | `443` | 🟡 106 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
 <!-- LIVE:END -->
 
 > [!TIP]
