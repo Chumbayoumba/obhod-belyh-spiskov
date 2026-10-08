@@ -9,7 +9,7 @@
 <!-- GIVEAWAY:END -->
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+FhRJPseOXOszZGM6)
-[![Proxies online](https://img.shields.io/badge/proxies_online-2-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
+[![Proxies online](https://img.shields.io/badge/proxies_online-3-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
 [![Updated](https://img.shields.io/badge/updated-08.10.2026-orange)](#-прокси-для-telegram-проверены-из-россии)
 [![VPN](https://img.shields.io/badge/VPN-белые_списки-ff6a00)](https://t.me/vnespiskabot?start=promo_VNESPISKA_gh_whitelist)
 
@@ -18,7 +18,7 @@
 **Whitelist bypass for Russian mobile internet, 2026:** free Telegram proxies checked from Russia (auto-updated), public VLESS subscriptions on GitHub, and a stable VPN option.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 08.10.2026 09:01 МСК** · рабочих прокси: **2** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 08.10.2026 16:41 МСК** · рабочих прокси: **3** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.1+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -53,8 +53,9 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `edge.turboass.live` | `443` | 🟢 78 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 2 | `ultra.mishutkin.click` | `443` | 🟡 104 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
+| 1 | `edge.turboass.live` | `443` | 🟡 102 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 2 | `132.243.231.76` | `443` | 🟢 33 мс | **[⚡ Подключить](https://t.me/proxy?server=132.243.231.76&port=443&secret=ee6b74041f24ff73dc4305cef153aad92a6170702d6c696e6b732e7275)** |
+| 3 | `ultra.mishutkin.click` | `443` | 🟡 171 мс | **[⚡ Подключить](https://t.me/proxy?server=ultra.mishutkin.click&port=443&secret=eed02e349163d9ea4376a2ae6a94fc550b64726976652e676f6f676c652e636f6d)** |
 <!-- LIVE:END -->
 
 > [!TIP]
