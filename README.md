@@ -3,7 +3,9 @@
 <!-- GIVEAWAY:START -->
 <a href="https://t.me/vnespiskabot?start=gw_github"><img src="https://vnespiska.win/gw/img/giveaway-4x1.webp" alt="Розыгрыш VPN ВНЕ СПИСКА × Geodema: 3 × 90 дней, 7 × 30 дней, 30 скидок 20%" width="100%"></a>
 
-> 🎁 **Розыгрыш VPN, итоги 10 октября в 20:00 МСК:** 3 подписки на 90 дней, 7 на 30 дней и 30 скидок 20%. Участие бесплатное и займёт минуту: **[участвовать →](https://t.me/vnespiskabot?start=gw_github)** · +1 билет за каждого друга
+> 🔥 **Последний шанс: итоги розыгрыша VPN 10 октября в 20:00 МСК** &nbsp; [![до итогов](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvnespiska.win%2Fgw%2Fstats.json&query=%24.left&label=%E2%8F%B3%20%D0%B4%D0%BE%20%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2&color=e53935&cacheSeconds=300)](https://t.me/vnespiskabot?start=gw_github) [![участвуют](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvnespiska.win%2Fgw%2Fstats.json&query=%24.participants&label=%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%82&color=1a8be8&cacheSeconds=300)](https://t.me/vnespiskabot?start=gw_github)
+>
+> 3 подписки на 90 дней, 7 на 30 дней и 30 скидок 20% — всего 40 призов, по одному на человека, так что шансы высокие. Подписки в призах — 16 месяцев Premium, по обычной цене 299 ₽ в месяц это 4 784 ₽. Участие бесплатное и займёт минуту: **[успеть поучаствовать →](https://t.me/vnespiskabot?start=gw_github)** · +1 билет за каждого друга
 >
 > 💡 Уже есть подписка Geodema? Выигранные дни добавятся к ней.
 <!-- GIVEAWAY:END -->
@@ -21,7 +23,7 @@
 > 🟢 **Обновлено: 09.10.2026 12:05 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
-> 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.1+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
+> 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.2+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
 
 
 ---
@@ -68,7 +70,7 @@
 > [!TIP]
 > Прокси живут часы, а не недели. **[Подпишитесь на канал @vnespiska](https://t.me/+FhRJPseOXOszZGM6)** — свежие прокси каждый час, ~4 000 подписчиков. Или откройте **[бота @vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_whitelist)** — выдаст рабочий прокси за секунду.
 
-**На компьютере** надёжнее новый **WEB-прокси** (Telegram Desktop 7.1.1+): трафик идёт как обычный HTTPS, заблокировать его сложнее → **[подключить WEB-прокси](https://vnespiska.win/webproxy/)**.
+**На компьютере** надёжнее новый **WEB-прокси** (Telegram Desktop 7.1.2+): трафик идёт как обычный HTTPS, заблокировать его сложнее → **[подключить WEB-прокси](https://vnespiska.win/webproxy/)**.
 
 ---
 
