@@ -13,7 +13,7 @@
 > 🟢 **Обновлено: 11.10.2026 21:49 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
-> 🖥 **На компьютере — наш WEB-прокси, его сложнее всего заблокировать.** Telegram Desktop 7.1.2+: трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
+> 🖥 **Для ПК и Android — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
 
 
 ---
@@ -60,7 +60,7 @@
 > [!TIP]
 > Прокси живут часы, а не недели. **[Подпишитесь на канал @vnespiska](https://t.me/+FhRJPseOXOszZGM6)** — свежие прокси каждый час, ~4 000 подписчиков. Или откройте **[бота @vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_whitelist)** — выдаст рабочий прокси за секунду.
 
-**На компьютере** надёжнее новый **WEB-прокси** (Telegram Desktop 7.1.2+): трафик идёт как обычный HTTPS, заблокировать его сложнее → **[подключить WEB-прокси](https://vnespiska.win/webproxy/)**.
+**На ПК и Android** надёжнее наш **WEB-прокси**: трафик идёт как обычный HTTPS, заблокировать его сложнее → **[подключить WEB-прокси](https://vnespiska.win/webproxy/)**.
 
 ---
 
@@ -109,6 +109,7 @@
 ## 🌐 Ещё
 
 - 📢 [Канал @vnespiska](https://t.me/+FhRJPseOXOszZGM6) — прокси каждый час, новости об отключениях
+- 📰 Живые списки на Telegraph: [рабочие прокси сегодня](https://telegra.ph/Besplatnyj-proksi-dlya-Telegram--rabochie-segodnya-provereny-iz-Rossii-10-11), [MTProto-прокси 2026](https://telegra.ph/MTProto-proksi-dlya-Telegram-2026-svezhij-spisok-s-proverkoj-iz-Rossii-10-11), [WEB-прокси для ПК и Android](https://telegra.ph/WEB-proksi-dlya-Telegram-besplatnyj-dlya-PK-i-Android-10-11), [не работает Telegram](https://telegra.ph/Ne-rabotaet-Telegram-proksi-kotoryj-podklyuchaetsya-v-odin-klik-10-11)
 - 🧾 [Бесплатные прокси для Telegram — отдельный список](https://github.com/Chumbayoumba/free-telegram-proxy-russia-2026)
 - 🛡 [glushilok.net](https://glushilok.net/) — прокси, VPN и гайды · [goida.win](https://goida.win/) — открывается без VPN
 
