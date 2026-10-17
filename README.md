@@ -13,7 +13,7 @@
 > 🟢 **Обновлено: 17.10.2026 21:28 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
-> 🖥 **Для ПК и Android — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://vnespiska.win/webproxy/)** · сервер `free.vnespiska.win` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
+> 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://telegra.ph/WEB-proksi-dlya-Telegram-besplatnyj-dlya-PK-i-Android-10-11)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
 
 
 ---
@@ -60,7 +60,7 @@
 > [!TIP]
 > Прокси живут часы, а не недели. **[Подпишитесь на канал @vnespiska](https://t.me/+FhRJPseOXOszZGM6)** — свежие прокси каждый час, ~4 000 подписчиков. Или откройте **[бота @vnespiskabot](https://t.me/vnespiskabot?start=proxy_notify_gh_whitelist)** — выдаст рабочий прокси за секунду.
 
-**На ПК и Android** надёжнее наш **WEB-прокси**: трафик идёт как обычный HTTPS, заблокировать его сложнее → **[подключить WEB-прокси](https://vnespiska.win/webproxy/)**.
+**На ПК, Android и iPhone** надёжнее наш **WEB-прокси**: трафик идёт как обычный HTTPS, заблокировать его сложнее → **[подключить WEB-прокси](https://telegra.ph/WEB-proksi-dlya-Telegram-besplatnyj-dlya-PK-i-Android-10-11)**.
 
 ---
 
