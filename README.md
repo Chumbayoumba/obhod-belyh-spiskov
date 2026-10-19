@@ -1,8 +1,8 @@
 # ⚪ Обход белых списков 2026 — что работает при отключении мобильного интернета
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+FhRJPseOXOszZGM6)
-[![Proxies online](https://img.shields.io/badge/proxies_online-1-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
-[![Updated](https://img.shields.io/badge/updated-19.10.2026-orange)](#-прокси-для-telegram-проверены-из-россии)
+[![Proxies online](https://img.shields.io/badge/proxies_online-7-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
+[![Updated](https://img.shields.io/badge/updated-20.10.2026-orange)](#-прокси-для-telegram-проверены-из-россии)
 [![VPN](https://img.shields.io/badge/VPN-белые_списки-ff6a00)](https://t.me/vnespiskabot?start=promo_VNESPISKA_gh_whitelist)
 
 > **Белые списки** — режим, в котором оператор пускает мобильный интернет только на разрешённые сайты: Госуслуги, банки, VK, Яндекс, маркетплейсы. Всё остальное, включая Telegram, YouTube и WhatsApp, не открывается. В этом репозитории собрано, что реально работает в таком режиме в 2026 году: бесплатные прокси для Telegram с автопроверкой из России, публичные подписки VLESS на GitHub и стабильный вариант, если бесплатное не подключается.
@@ -10,7 +10,7 @@
 **Whitelist bypass for Russian mobile internet, 2026:** free Telegram proxies checked from Russia (auto-updated), public VLESS subscriptions on GitHub, and a stable VPN option.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 19.10.2026 20:52 МСК** · рабочих прокси: **1** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 20.10.2026 02:39 МСК** · рабочих прокси: **7** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://webproxy.stream/)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -45,7 +45,13 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `drift.lite64.top` | `443` | 🟢 71 мс | **[⚡ Подключить](https://t.me/proxy?server=drift.lite64.top&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465)** |
+| 1 | `dns.dnsrender.info` | `443` | 🟠 417 мс | **[⚡ Подключить](https://t.me/proxy?server=dns.dnsrender.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 2 | `89.125.156.204` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=89.125.156.204&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 3 | `89.125.156.88` | `443` | 🟢 42 мс | **[⚡ Подключить](https://t.me/proxy?server=89.125.156.88&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 4 | `82.22.41.37` | `8443` | 🟢 18 мс | **[⚡ Подключить](https://t.me/proxy?server=82.22.41.37&port=8443&secret=ee1104a80139ca104cdb1184484edf78c37275737369616e2d616e696d616c732e7275)** |
+| 5 | `toka69.velvetoak.work` | `443` | 🟡 103 мс | **[⚡ Подключить](https://t.me/proxy?server=toka69.velvetoak.work&port=443&secret=ee1fb23d3871d7fb9570f26aee4fc6456b6c69746536342e73697465)** |
+| 6 | `31.57.12.234` | `443` | 🟢 68 мс | **[⚡ Подключить](https://t.me/proxy?server=31.57.12.234&port=443&secret=eefbfe5681832d6f42bbc050839be23bf46d2e6265626f6f2e7275)** |
+| 7 | `13.141.64.65` | `443` | 🟢 69 мс | **[⚡ Подключить](https://t.me/proxy?server=13.141.64.65&port=443&secret=ee9cbfac70061528273114bf7c5c64f17c746f6b6131332e616d626572726565642e746f70)** |
 <!-- LIVE:END -->
 
 > [!TIP]
