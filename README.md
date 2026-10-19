@@ -1,7 +1,7 @@
 # ⚪ Обход белых списков 2026 — что работает при отключении мобильного интернета
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+FhRJPseOXOszZGM6)
-[![Proxies online](https://img.shields.io/badge/proxies_online-4-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
+[![Proxies online](https://img.shields.io/badge/proxies_online-1-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
 [![Updated](https://img.shields.io/badge/updated-19.10.2026-orange)](#-прокси-для-telegram-проверены-из-россии)
 [![VPN](https://img.shields.io/badge/VPN-белые_списки-ff6a00)](https://t.me/vnespiskabot?start=promo_VNESPISKA_gh_whitelist)
 
@@ -10,7 +10,7 @@
 **Whitelist bypass for Russian mobile internet, 2026:** free Telegram proxies checked from Russia (auto-updated), public VLESS subscriptions on GitHub, and a stable VPN option.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 19.10.2026 16:36 МСК** · рабочих прокси: **4** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 19.10.2026 20:52 МСК** · рабочих прокси: **1** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://webproxy.stream/)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -45,10 +45,7 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `drift.lite64.xyz` | `443` | 🟡 186 мс | **[⚡ Подключить](https://t.me/proxy?server=drift.lite64.xyz&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465)** |
-| 2 | `amber-yarrow.velvetoak.work` | `443` | 🟡 153 мс | **[⚡ Подключить](https://t.me/proxy?server=amber-yarrow.velvetoak.work&port=443&secret=ee6f7b4ccd07edb821ac27e4b0a5d8b3596c69746536342e73697465)** |
-| 3 | `seven.mtproxy.pw` | `443` | 🟡 122 мс | **[⚡ Подключить](https://t.me/proxy?server=seven.mtproxy.pw&port=443&secret=ee1cc4469f48e510ff94041731920d66986c69746536342e73697465)** |
-| 4 | `iris.lite64.top` | `443` | 🟠 308 мс | **[⚡ Подключить](https://t.me/proxy?server=iris.lite64.top&port=443&secret=ee16e2ce1e9674cfc5e517fcaa2fed58b46c69746536342e73697465)** |
+| 1 | `drift.lite64.top` | `443` | 🟢 71 мс | **[⚡ Подключить](https://t.me/proxy?server=drift.lite64.top&port=443&secret=ee212ec06aaf534952e31694ba86ec68a96c69746536342e73697465)** |
 <!-- LIVE:END -->
 
 > [!TIP]
