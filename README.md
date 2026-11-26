@@ -2,7 +2,7 @@
 
 [![Telegram канал @vnespiska](https://img.shields.io/badge/Telegram-@vnespiska-2CA5E0?logo=telegram&logoColor=white)](https://t.me/+FhRJPseOXOszZGM6)
 [![Proxies online](https://img.shields.io/badge/proxies_online-10-brightgreen)](#-прокси-для-telegram-проверены-из-россии)
-[![Updated](https://img.shields.io/badge/updated-26.11.2026-orange)](#-прокси-для-telegram-проверены-из-россии)
+[![Updated](https://img.shields.io/badge/updated-27.11.2026-orange)](#-прокси-для-telegram-проверены-из-россии)
 [![VPN](https://img.shields.io/badge/VPN-белые_списки-ff6a00)](https://t.me/vnespiskabot?start=promo_VNESPISKA_gh_whitelist)
 
 > **Белые списки** — режим, в котором оператор пускает мобильный интернет только на разрешённые сайты: Госуслуги, банки, VK, Яндекс, маркетплейсы. Всё остальное, включая Telegram, YouTube и WhatsApp, не открывается. В этом репозитории собрано, что реально работает в таком режиме в 2026 году: бесплатные прокси для Telegram с автопроверкой из России, публичные подписки VLESS на GitHub и стабильный вариант, если бесплатное не подключается.
@@ -10,7 +10,7 @@
 **Whitelist bypass for Russian mobile internet, 2026:** free Telegram proxies checked from Russia (auto-updated), public VLESS subscriptions on GitHub, and a stable VPN option.
 
 <!-- UPDATED:START -->
-> 🟢 **Обновлено: 26.11.2026 13:55 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
+> 🟢 **Обновлено: 27.11.2026 00:40 МСК** · рабочих прокси: **10** · каждый проверен подключением с российского сервера
 <!-- UPDATED:END -->
 
 > 🖥 **Для ПК, Android и iPhone — наш WEB-прокси, его сложнее всего заблокировать.** Трафик идёт как обычный HTTPS. **[Подключить в 1 клик →](https://webproxy.stream/)** · сервер `webproxy.stream` · секрет `9fc8d7d1aeee614bd5fa3b760da44dd3` · тип **WEB**
@@ -45,16 +45,16 @@
 <!-- LIVE:START -->
 | # | Сервер | Порт | Пинг из РФ | Подключить |
 |---|--------|------|-----------|------------|
-| 1 | `host.white-dns.info` | `443` | 🟡 146 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
-| 2 | `html.geo-cdn.ru` | `443` | 🟢 57 мс | **[⚡ Подключить](https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 3 | `amsterdam.geodns.info` | `443` | 🟡 182 мс | **[⚡ Подключить](https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
-| 4 | `dl3.soft98.net` | `2053` | 🟢 39 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
-| 5 | `redflag.yazaebalsyadelatp…` | `443` | 🟢 63 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363)** |
-| 6 | `super.alotaxi.info` | `4515` | 🟡 168 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
-| 7 | `tg6.turboass.live` | `443` | 🟡 133 мс | **[⚡ Подключить](https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665)** |
-| 8 | `edge.turboass.live` | `443` | 🟡 137 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
-| 9 | `31.130.133.59` | `443` | 🟢 44 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
-| 10 | `fast.proxynet.tech` | `443` | 🟢 72 мс | **[⚡ Подключить](https://t.me/proxy?server=fast.proxynet.tech&port=443&secret=ee08787a2b7fd3220d9d35679aab082cab666173742e70726f78796e65742e74656368)** |
+| 1 | `edge.turboass.live` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665)** |
+| 2 | `host.white-dns.info` | `443` | 🟡 159 мс | **[⚡ Подключить](https://t.me/proxy?server=host.white-dns.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4)** |
+| 3 | `html.geo-cdn.ru` | `443` | 🟢 49 мс | **[⚡ Подключить](https://t.me/proxy?server=html.geo-cdn.ru&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 4 | `amsterdam.geodns.info` | `443` | 🟡 105 мс | **[⚡ Подключить](https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09)** |
+| 5 | `dl3.soft98.net` | `2053` | 🟢 38 мс | **[⚡ Подключить](https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972)** |
+| 6 | `super.alotaxi.info` | `4515` | 🟢 65 мс | **[⚡ Подключить](https://t.me/proxy?server=super.alotaxi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e6d61782e7275)** |
+| 7 | `tg6.turboass.live` | `443` | 🟡 135 мс | **[⚡ Подключить](https://t.me/proxy?server=tg6.turboass.live&port=443&secret=ee7dc49d6324c1013b0f53382ef12cc1107467362e747572626f6173732e6c697665)** |
+| 8 | `31.130.133.59` | `443` | 🟢 45 мс | **[⚡ Подключить](https://t.me/proxy?server=31.130.133.59&port=443&secret=ee79612e72754283dd67718731403044)** |
+| 9 | `51.158.187.113` | `38443` | 🟢 50 мс | **[⚡ Подключить](https://t.me/proxy?server=51.158.187.113&port=38443&secret=ddca11911c0de0faffec7edbada55cab1e)** |
+| 10 | `redflag.yazaebalsyadelatp…` | `443` | 🟢 65 мс | **[⚡ Подключить](https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.uk&port=443&secret=ee69e899d89ec68e220ca177557322b27f726564666c61672e79617a7a616562616c73796164656c617470726f78792e6363)** |
 <!-- LIVE:END -->
 
 > [!TIP]
